@@ -8,6 +8,5 @@ abigen
 package-lock.json
 yarn.lock
 
-!/config/config.json
-!/config/helper.md
-config
+/config/config.json
+/config/helper.md

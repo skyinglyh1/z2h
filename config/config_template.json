@@ -1,0 +1,57 @@
+{
+    "gasReporterFilePath": "./config/gas_report",
+    "scanApiKey": "A2M1T56D5NCI62G6PNTY3FHA5VN3D48YU5",
+    "local": {
+        "networkName": "local",
+        "rpc": "https://rpc.ankr.com/bsc",
+        "scanApiKey": "A2M1T56D5NCI62G6PNTY3FHA5VN3D48YU5",
+        "privateKeys": [
+        ],
+        "accounts": [
+            "0xc9F59c6105AAAeFd705E2dfCDB4742589e96852B",
+            "0x20b9ce4660e2a3d283f4f3a24391aac0eee93fb7"
+        ],
+        "deploy": {
+            "week1": {
+                "mst": {
+                    "name": "MySimpleToken",
+                    "symbol": "MST"
+                }
+            }
+        },
+        "deployed": {
+            "week1": {
+                "mst": "0x2a18c582C443f3022A5C57F6730d0c0D61aaC81C",
+                "sr": "0x88833E88F5E41cDB027b5f0F7813bA9F12a93743"
+            }
+        }
+    },
+    "bsctest": {
+        "networkName": "local",
+        "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "scanApiKey": "A2M1T56D5NCI62G6PNTY3FHA5VN3D48YU5",
+        "privateKeys": [
+
+        ],
+        "accounts": [
+            "0xc9F59c6105AAAeFd705E2dfCDB4742589e96852B",
+            "0x20b9ce4660e2a3d283f4f3a24391aac0eee93fb7"
+        ],
+        "deploy": {
+            "week1": {
+                "mst": {
+                    "name": "MySimpleToken",
+                    "symbol": "MST"
+                }
+            }
+        },
+        "deployed": {
+            "week1": {
+                "mst": "0xd81BD5Dbc37A6E68585b1b6eC2659B4Fe728A7E3",
+                "sr": "0x85D3Bb50C293FF1c60aB3e3bF60cd5D73959Eea7"
+            }
+        }
+    },
+    "goerli": {},
+    "bsc": {}
+}
