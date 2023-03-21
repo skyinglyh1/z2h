@@ -1,0 +1,13 @@
+.openzeppelin
+artifacts
+cache
+
+node_modules
+abigen
+.env
+package-lock.json
+yarn.lock
+
+!/config/config.json
+!/config/helper.md
+config

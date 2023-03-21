@@ -1,0 +1,40 @@
+{
+    "name": "z2h",
+    "version": "1.0",
+    "description": "z2h",
+    "homepage": "",
+    "keywords": [
+        "z2h",
+        "ethereum",
+        "web3"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "files": [
+        "contracts",
+        "build"
+    ],
+    "engines": {
+        "node": ">=10"
+    },
+    "scripts": {},
+    "devDependencies": {
+        "@nomiclabs/hardhat-ethers": "^2.1.0",
+        "@nomiclabs/hardhat-etherscan": "^3.1.0",
+        "@openzeppelin/contracts": "^4.7.3",
+        "@openzeppelin/test-helpers": "^0.5.15",
+        "@rari-capital/solmate": "^5.9.0",
+        "ethereum-waffle": "^3.4.4",
+        "hardhat": "^2.11.1",
+        "hardhat-gas-reporter": "^1.0.8",
+        "openzeppelin-solidity-2.3.0": "npm:openzeppelin-solidity@2.3.0"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@openzeppelin/hardhat-upgrades": "^1.22.1",
+        "@uniswap/v2-periphery": "^1.1.0-beta.0",
+        "dotenv": "^16.0.3"
+    }
+}
