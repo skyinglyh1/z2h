@@ -36,8 +36,8 @@ module.exports = {
             ],
             // gasPrice: 1.1 * 1000000000, // 1.1 gwei
             gasLimit: 6000000, //
-            gas: 2100000,
-            gasPrice: 10 * 1000000000, // 10 gwei
+            gas: 5000000,
+            gasPrice: 15 * 1000000000, // 10 gwei
             timeout: 28000000,
         },
     },

@@ -23,15 +23,18 @@
             "week1": {
                 "mst": "0x2a18c582C443f3022A5C57F6730d0c0D61aaC81C",
                 "sr": "0x88833E88F5E41cDB027b5f0F7813bA9F12a93743"
+            },
+            "week2": {
+                "v1": ""
             }
         }
     },
     "bsctest": {
-        "networkName": "local",
-        "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "networkName": "bsctest",
+        "rpc1": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "rpc": "https://hardworking-polished-telescope.bsc-testnet.discover.quiknode.pro/67bbeb84a4de40acb5cf887a627215fb3b821f1a/",
         "scanApiKey": "A2M1T56D5NCI62G6PNTY3FHA5VN3D48YU5",
         "privateKeys": [
-
         ],
         "accounts": [
             "0xc9F59c6105AAAeFd705E2dfCDB4742589e96852B",
@@ -49,6 +52,11 @@
             "week1": {
                 "mst": "0xd81BD5Dbc37A6E68585b1b6eC2659B4Fe728A7E3",
                 "sr": "0x85D3Bb50C293FF1c60aB3e3bF60cd5D73959Eea7"
+            },
+            "week2": {
+                "v1": "0x82411ad593B2958c66E2F1532920C6063503Eb93",
+                "v1_impl": "0x643425e68b07bfa7b5280cdaa526210301005f35",
+                "v2_impl": "0xC29831daCd7D455A81629f17df4e47adaC44A7C4"
             }
         }
     },

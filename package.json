@@ -29,7 +29,8 @@
         "ethereum-waffle": "^3.4.4",
         "hardhat": "^2.11.1",
         "hardhat-gas-reporter": "^1.0.8",
-        "openzeppelin-solidity-2.3.0": "npm:openzeppelin-solidity@2.3.0"
+        "openzeppelin-solidity-2.3.0": "npm:openzeppelin-solidity@2.3.0",
+        "@openzeppelin/contracts-upgradeable": "^4.7.0"
     },
     "license": "MIT",
     "dependencies": {
